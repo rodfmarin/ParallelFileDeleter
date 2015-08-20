@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelFileDeleter", "ParallelFileDeleter\ParallelFileDeleter.csproj", "{AF96CE83-A8C3-4425-9A03-F1C1978ABEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF96CE83-A8C3-4425-9A03-F1C1978ABEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF96CE83-A8C3-4425-9A03-F1C1978ABEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF96CE83-A8C3-4425-9A03-F1C1978ABEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF96CE83-A8C3-4425-9A03-F1C1978ABEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

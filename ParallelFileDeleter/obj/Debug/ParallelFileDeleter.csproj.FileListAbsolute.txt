@@ -1,0 +1,5 @@
+c:\users\rodrigo_mariniii\documents\visual studio 2015\Projects\ParallelFileDeleter\ParallelFileDeleter\bin\Debug\ParallelFileDeleter.exe
+c:\users\rodrigo_mariniii\documents\visual studio 2015\Projects\ParallelFileDeleter\ParallelFileDeleter\bin\Debug\ParallelFileDeleter.pdb
+c:\users\rodrigo_mariniii\documents\visual studio 2015\Projects\ParallelFileDeleter\ParallelFileDeleter\obj\Debug\ParallelFileDeleter.csprojResolveAssemblyReference.cache
+c:\users\rodrigo_mariniii\documents\visual studio 2015\Projects\ParallelFileDeleter\ParallelFileDeleter\obj\Debug\ParallelFileDeleter.exe
+c:\users\rodrigo_mariniii\documents\visual studio 2015\Projects\ParallelFileDeleter\ParallelFileDeleter\obj\Debug\ParallelFileDeleter.pdb
